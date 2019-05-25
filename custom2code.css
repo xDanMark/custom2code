@@ -1,0 +1,163 @@
+/*BetterDocs Blocker*/
+@import url('https://anti-betterdocs.github.io/BlockBetterDocs/BetterDocsBlockerVars.css');
+
+.typeWindows-1za-n7 + .platform-web .app {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-image: var(--BetterDocsBlockerWarn) !important;
+  cursor: not-allowed !important;
+  position: absolute !important;
+  display: block !important;
+  opacity: 1 !important;
+  left: 0 !important;
+  top: -70px !important;
+  margin: 0 !important;
+  z-index: 999999999 !important;
+  visibility: visible !important;
+}
+
+html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2rEoOp.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div.layer-3QrUeG > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.container-2lgZY8.firefoxFixScrollFlex-cnI2ix > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix > div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.container-2Thooq > div.wrapper-2F3Zv8.small-5Os1Bb.avatar-3JE4B3.avatarSmall-3ACRaI > div.inner-1W0Bkn[style*="438014606066319370"]::before {
+	all:unset !important;
+    content: "Fuck Off Kindly.\a-BD Theme Devs" !important;
+    color:var(--BetterDocsBlockerRed) !important;
+	font-weight: 500 !important;
+	white-space: pre !important;
+	font-size: 25px !important;
+	line-height: 30px !important;
+	text-align: center !important;
+	background-color: var(--BetterDocsBlockerBlack1) !important;
+	box-shadow: inset 0 0 25px 5px var(--BetterDocsBlockerRed) !important;
+	border: 4px solid #f04747 !important;
+	padding: 0 !important;
+	padding-top: calc(50vh - 40px) !important;
+	margin: 0 !important;
+	display: inline !important;
+	opacity: 1 !important;
+	visibility: visible !important;
+	position: fixed !important;
+	left: 0 !important;
+	bottom: 0 !important;
+	top: 0 !important;
+	right: 0 !important;
+	z-index: 99999999999999999999999999999999999999999 !important;
+	pointer-events: none !important;
+	transform: none !important;
+	max-height: unset !important;
+	max-width: unset !important;
+	text-shadow: 0 0 12px var(--BetterDocsBlockerRed);
+	-webkit-app-region: drag !important;
+}
+
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after, 
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after,
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i]::after, 
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i]::after{
+    content: var(--BetterDocsBlockerWarnLogo2) !important;
+    position: relative !important;
+    top: 3px !important;
+    margin: 0 2px !important;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://discordsource." i]{
+  color: var(--BetterDocsBlockerRed) !important;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i]::selection,
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i]::selection,
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://discordsource." i]{
+  background-color: transparent !important;
+}
+
+.embed-IeVjo6 a[href*="://betterdocs." i]:before,
+.embed-IeVjo6 a[href*="://discordsource." i]:before{
+  color: var(--BetterDocsBlockerWhite);
+  border: 2px solid var(--BetterDocsBlockerRed);
+  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) bottom right/100px no-repeat;
+  box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
+  padding: 10px;
+  padding-right: 100px;
+  margin-top: -33px;
+  margin-left: -15px;
+  border-radius: 5px !important;
+  text-align: justify;
+  position: absolute;
+  font-weight: bold;
+  height: 100%;
+  box-sizing: border-box;
+  white-space: pre-wrap;
+  overflow: hidden;
+  letter-spacing: 0;
+  content: "BetterDocs and Discord Source are unsafe sources. The owner of said sources posts developers themes and plugins without proper permission, and profits off of their work. This site also contains content that would not be found on the official BetterDiscord content lists. This means it contains harmful plugins that could either get you into trouble with discord, or steal your user account info. This isn't the first time this has happened. Please stay safe and download from official sources only.";
+}
+
+.embed-IeVjo6 a[href*="://betterdocs." i],
+.embed-IeVjo6 a[href*="://discordsource." i]{
+  color: transparent !important;
+  height: 70px;
+}
+
+.embed-IeVjo6 a[href*="betterdocs.net/preview" i]:before,
+.embed-IeVjo6 a[href*="betterdocs.us/preview" i]:before,
+.embed-IeVjo6 a[href*="discordsource.com/preview" i]:before {
+  width: auto;
+  line-height: 17px;
+  height: 100%;
+  z-index: 2;
+  padding: 10px;
+  color: var(--BetterDocsBlockerWhite);
+  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) top/30% no-repeat;
+  display: flex;
+  text-align: justify;
+  align-content: center;
+  align-items: center;
+  white-space: pre-wrap;
+  content: "BetterDocs and Discord Source are unsafe sources. The owner of said sources posts developers themes and plugins without proper permission, and profits off of their work. This site also contains content that would not be found on the official BetterDiscord content lists. This means it contains harmful plugins that could either get you into trouble with discord, or steal your user account info. This isn't the first time this has happened. Please stay safe and download from official sources only.";
+}
+
+.wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168"]::after {
+  content: 'BetterDocs/Discord Source are untrusted sources of themes and plugins\a The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs/Discord Source.';
+  color: var(--BetterDocsBlockerWhite);
+  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) left/auto 100% no-repeat;
+  border: 2px solid var(--BetterDocsBlockerRed);
+  box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
+  padding: 10px 7px 10px 100px;
+  margin-top: -35px;
+  margin-left: -18px;
+  border-radius: 5px !important;
+  position: absolute;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-align: justify;
+  font-size: 15px;
+  width: 300px;
+  height: 78px;
+  z-index: 1;
+}
+
+.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i] {
+  color: transparent !important;
+  cursor: not-allowed !important;
+  pointer-events: none !important;
+  letter-spacing: -1000px !important;
+}
+
+.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i]:after {
+  content: 'Harmful Invite Detected - BetterDocs';
+  color: var(--BetterDocsBlockerRed) !important;
+  margin-left: -8px;
+  font-weight: bold;
+  pointer-events: none;
+  letter-spacing: 0;
+}
+
+#app-mount .guildIcon-VlWW86[style*='/icons/153708594091655168'] {
+  background-image: var(--BetterDocsBlockerWarnLogo3) !important;
+}
